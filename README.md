@@ -1,4 +1,4 @@
 # Python
 Python
 
-Chapter1 FrenchDeck
+Chapter 1 FrenchDeck
